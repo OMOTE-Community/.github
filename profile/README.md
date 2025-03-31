@@ -1,6 +1,6 @@
 # OMOTE - Open Universal Remote
 
-![](images/OMOTE_assembled.jpg)
+![](../images/OMOTE_assembled.jpg)
 
 ![Ubuntu build](https://github.com/CoretechR/OMOTE/actions/workflows/build-platformio-ubuntu.yml/badge.svg)
 ![Windows Build](https://github.com/CoretechR/OMOTE/actions/workflows/build-platformio-windows.yml/badge.svg)
