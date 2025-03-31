@@ -7,6 +7,17 @@
 ![MacOS Build](https://github.com/CoretechR/OMOTE/actions/workflows/build-platformio-macos.yml/badge.svg)
 [![OMOTE Discord](https://discordapp.com/api/guilds/1138116475559882852/widget.png?style=shield)][link1]
 
+## Under construction
+This is the new place for the OMOTE universal remote project.
+In future, there will be separate repos for
+* hardware
+* main software version
+* a special C++ software version (with less features, but strictly C++, if you like this more)
+* in future maybe a web application for no code configuration of OMOTE
+* in future maybe an OMOTE hub
+
+Until everything has moved, please have a look at the old place of the repo (containing both hardware and software): https://github.com/CoretechR/OMOTE
+
 ## Overview
 
 OMOTE is an ESP32 based open source universal remote. Its capacitive 2.8” touchscreen provides an intuitive and snappy user interface for switching devices and settings. No hub or docking station is required as the remote features infrared, Wi-Fi and Bluetooth connectivity. With its well optimized power consumption, OMOTE can run for months on a charge. And since the design files are open source, you can fully customize them to your devices and needs.
