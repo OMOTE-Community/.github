@@ -13,6 +13,7 @@ In future, there will be separate repos for
 * hardware
 * main software version
 * a special C++ software version (with less features, but strictly C++, if you like this more)
+* MQTT keyboard
 * in future maybe a web application for no code configuration of OMOTE
 * in future maybe an OMOTE hub
 
