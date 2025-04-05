@@ -13,7 +13,7 @@ support of [MQTT keyboard](https://github.com/OMOTE-Community/esp32-mqtt-keyboar
 WebSockets | &#10005; | &#10003;
 Home Assistant WebSocket API framework | &#10005; | &#10003;
 scenes | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#scenes) | &#10005;
-scene specific commands for keypad | &#10003; | handling key presses in a priority manner available (for an upcoming scene implementation)
+scene specific commands for keypad | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#hardware-keys) | handling key presses in a priority manner available (for an upcoming scene implementation)
 scene specific GUIs<br>dynamic creation of GUIs (not one single list of GUIs from left to right) | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#scene-specific-guis) | &#10005;
 command pattern (can be used by keypad and GUI) | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#commands) | &#10005;
 support of short press, repeated press<br>and long press of keypad | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#hardware-keys) | &#10005;
