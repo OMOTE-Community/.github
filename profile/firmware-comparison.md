@@ -1,7 +1,7 @@
 ## Firmware
 There are currently two firmwares available for OMOTE. They are completely independent from each other, and they have no common base. You can choose which one to use.
 
- &nbsp;| C based firmware| C++ based firmware
+ &nbsp;| OMOTE-Firmware| OMOTE-Firmware-object-oriented
 ------------ | ------------- | -------------
 summary | - more end user features<br>- mainly pure C, probably easier to understand<br>- extensive Wiki explaining the software | - less end user features<br>- pure C++, probably higher complexity<br>- currently no Wiki
 simulator for running the<br>firmware on a PC|- Linux, Windows, macOS<br>- MQTT<br>- keypad simulator | - Linux, Windows<br>- WebSockets<br>- MQTT (soon)
