@@ -3,7 +3,7 @@ There are currently two firmwares available for OMOTE. They are completely indep
 
  &nbsp;| OMOTE-Firmware| OMOTE-Firmware-object-oriented
 ------------ | ------------- | -------------
-summary | - more end user features<br>- mainly pure C, probably easier to understand<br>- extensive Wiki explaining the software | - less end user features<br>- pure C++, probably higher complexity<br>- currently no Wiki
+summary | - more end user features<br>- mainly pure C, probably easier to understand<br>- [extensive Wiki explaining the software](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki) | - less end user features<br>- pure C++, probably higher complexity<br>- currently no Wiki
 simulator for running the<br>firmware on a PC|- Linux, Windows, macOS<br>- MQTT<br>- keypad simulator<br>[Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/Software-simulator-for-fast-creating-and-testing-of-LVGL-GUIs) | - Linux, Windows<br>- WebSockets<br>- MQTT (soon)
 infrared sender | - some predefined IR devices and 20 IR protocols<br>- more IR protocols can be added easily<br>[Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#supported-devices) | supported
 infrared receiver, see which IR<br>codes is your old remote sending | &#10003; | &#10003;
@@ -18,6 +18,6 @@ scene specific GUIs<br>dynamic creation of GUIs (not one single list of GUIs fro
 command pattern (can be used by keypad and GUI) | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#commands) | &#10005;
 support of short press, repeated press<br>and long press of keypad | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#hardware-keys) | &#10005;
 special firmware for checking hardware | &#10003; [Wiki](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#which-is-the-right-firmware-to-compile)| &#10005;
-lvgl version | - 8.4<br>- 9.x (optional, more [memory](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#memory) needed) | - 9.2<br>&nbsp;
+lvgl version | - 8.4<br>- 9.x (optional, more [memory](https://github.com/OMOTE-Community/OMOTE-Firmware/wiki/How-to-understand-and-modify-the-firmware#memory) needed, only recommended for hardware rev5) | - 9.2<br>&nbsp;
 Littlefs filesystem | &#10005; | support of storage of json config in flash
 supported OMOTE hardware | up to rev5 | up to rev4 (rev5 soon)
