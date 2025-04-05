@@ -1,11 +1,6 @@
-## Under construction
-This is the new place for the OMOTE universal remote project.
-In future, there will be separate repos for
-* hardware
-* a C based software version
-* a C++ software version (see comparison of firmwares below)
-* MQTT keyboard
-* in future maybe a web application for no code configuration of OMOTE
-* in future maybe an OMOTE hub
+## This is the OMOTE universal remote project
+Here you find separate repos for
+* [Hardware](https://github.com/OMOTE-Community/OMOTE-Hardware)
+* [Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware)
 
-Until everything has moved, please have a look at the old place of the repo (containing both hardware and software): https://github.com/CoretechR/OMOTE
+A UI configurator for the future is planned.
