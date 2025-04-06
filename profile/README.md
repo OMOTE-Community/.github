@@ -4,6 +4,6 @@ Here you can find separate repos for:
 * [OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware)
 * [OMOTE-Firmware-object-oriented](https://github.com/OMOTE-Community/OMOTE-Firmware-object-oriented)
 
-For a comparison of the firmwares, please see [this page](https://github.com/OMOTE-Community/.github/blob/main/profile/firmware-comparison.md).
+See this [comparison of the firmwares](https://github.com/OMOTE-Community/.github/blob/main/profile/firmware-comparison.md).
 
 A UI configurator is planned for the future.
