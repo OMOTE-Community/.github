@@ -6,4 +6,4 @@ Here you can find separate repos for
 
 For a comparison of the firmwares, please see [this page](https://github.com/OMOTE-Community/.github/blob/main/profile/firmware-comparison.md)
 
-A UI configurator for the future is planned.
+A UI configurator is planned for the future.
